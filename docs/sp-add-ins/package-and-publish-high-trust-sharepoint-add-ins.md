@@ -112,7 +112,7 @@ The following procedures are performed on the remote web server hosting the remo
  
 2. Add the **Certificates** snap-in for the computer account as described in [Add the Certificates Snap-in to an MMC](https://technet.microsoft.com/en-us/library/cc754431.aspx). Be sure to use the procedure for the *computer*, not a user or service. Select the *local*  computer, not "another" computer, when prompted.
     
-Skip the next procedure if you are using ISS Manager 8.
+Skip the next procedure if you are using IIS Manager 8.
 
 ### Additional steps for ISS Manager 7 to get the certificate into the Windows Certificate Store
 
